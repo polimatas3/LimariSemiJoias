@@ -2,7 +2,7 @@
   <section class="relative w-full h-[600px] md:h-[800px] overflow-hidden pt-16 md:pt-20">
     <div
       class="absolute inset-0 bg-cover bg-center transform transition-transform duration-1000 hover:scale-[1.02]"
-      :style="{ backgroundImage: 'url(https://lh3.googleusercontent.com/sitesv/APaQ0SSuH3KxloBHcYrN6WaZmFBwXwfNbjRcTK4RCm3qwoU4xdRj5bdZuZHmiaNLLCEB7qpfGJNSy4rQ8IwNFH2fxX93ZIPQevuKSLkyGm4yruV43jT8L5jHRq6vOR00iCnn9d9tB3Kt48w7bBTloP44FVF6Rby1ZZtbvNzBE25d7DjMXfNz_9jWw3sC=w16383)' }"
+      :style="{ backgroundImage: 'url(/ImagemFundo01.jpeg)' }"
     >
       <!-- Overlay elegante em camadas -->
       <div class="absolute inset-0 bg-gradient-to-t from-black-900/60 via-black-500/20 to-transparent"></div>
@@ -16,6 +16,22 @@
       
       <!-- Borda decorativa superior -->
       <div class="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-gold-500/50 to-transparent"></div>
+    </div>
+    
+    <!-- Textos sobrepostos na imagem -->
+    <div class="absolute inset-0 flex flex-col items-center justify-center z-10 px-4">
+      <h1 
+        class="text-6xl md:text-8xl lg:text-9xl xl:text-[10rem] font-cinzel font-normal uppercase mb-4 md:mb-6"
+        style="letter-spacing: 0.1em; color: #E5E5E5; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 1px 2px rgba(0, 0, 0, 0.15);"
+      >
+        LIMÁRI
+      </h1>
+      <p 
+        class="text-lg md:text-2xl lg:text-3xl xl:text-4xl font-montserrat font-light uppercase"
+        style="letter-spacing: 0.3em; color: #E5E5E5; text-shadow: 0 2px 3px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(0, 0, 0, 0.15);"
+      >
+        PRATA 925 & SEMIJOIAS
+      </p>
     </div>
     
     <!-- Botão de catálogo sobreposto no final -->

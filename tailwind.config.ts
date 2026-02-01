@@ -87,6 +87,9 @@ export default <Partial<Config>>{
         serif: ['Playfair Display', 'Georgia', 'serif'],
         display: ['Cormorant Garamond', 'Playfair Display', 'serif'],
         sans: ['Inter', 'system-ui', 'sans-serif'],
+        cinzel: ['Cinzel', 'Playfair Display', 'serif'],
+        montserrat: ['Montserrat', 'Lato', 'sans-serif'],
+        lato: ['Lato', 'Montserrat', 'sans-serif'],
       },
       boxShadow: {
         'gold': '0 4px 6px -1px rgba(212, 175, 55, 0.1), 0 2px 4px -1px rgba(212, 175, 55, 0.06)',
