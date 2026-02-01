@@ -27,8 +27,8 @@
         LIMÁRI
       </h1>
       <p 
-        class="text-lg md:text-2xl lg:text-3xl xl:text-4xl font-montserrat font-light uppercase"
-        style="letter-spacing: 0.3em; color: #E5E5E5; text-shadow: 0 2px 3px rgba(0, 0, 0, 0.2), 0 1px 1px rgba(0, 0, 0, 0.15);"
+        class="text-lg md:text-2xl lg:text-3xl xl:text-4xl font-montserrat font-light uppercase text-center w-full px-2"
+        style="letter-spacing: 0.3em; color: #E5E5E5; text-shadow: 0 4px 8px rgba(0, 0, 0, 0.6), 0 2px 4px rgba(0, 0, 0, 0.5), 0 1px 2px rgba(0, 0, 0, 0.4);"
       >
         PRATA 925 & SEMIJOIAS
       </p>
