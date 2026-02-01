@@ -2,7 +2,7 @@
   <section class="relative w-full h-[600px] md:h-[800px] overflow-hidden pt-16 md:pt-20">
     <div
       class="absolute inset-0 bg-cover bg-center transform transition-transform duration-1000 hover:scale-[1.02]"
-      :style="{ backgroundImage: 'url(/ImagemFundo01.jpeg)' }"
+      :style="{ backgroundImage: 'url(/ImagemFundo01.png)' }"
     >
       <!-- Overlay elegante em camadas -->
       <div class="absolute inset-0 bg-gradient-to-t from-black-900/60 via-black-500/20 to-transparent"></div>
